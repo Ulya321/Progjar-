@@ -1,0 +1,3 @@
+# Contoh membuat file 'file_upload.txt' dengan isi teks
+with open('file_upload.txt', 'w') as f:
+    f.write("HAYY ini ULYA sedang mencoba mengirimkan file dalam bentuk txt")
